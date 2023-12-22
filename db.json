@@ -1,20 +1,20 @@
-{"producto" :
-    [
-        {
-            "cod-proveedor": "PROV001",
-            "codigo-SKU": "SKU123",
-            "categoria": "Electrónica",
-            "nombre-producto": "Producto ABC",
-            "descripcion": "Descripción del producto ABC",
-            "precio": 99.99
-        },
+{
+   "producto": [
       {
-            "cod-proveedor": "PROV002",
-            "codigo-SKU": "SKU124",
-            "categoria": "Electrónica",
-            "nombre-producto": "Producto DEF",
-            "descripcion": "Descripción del producto DEF",
-            "precio": 9.99
-        },
-    ]
+         "cod-proveedor": "PROV001",
+         "codigo-SKU": "SKU123",
+         "categoria": "Electrónica",
+         "nombre-producto": "Producto ABC",
+         "descripcion": "Descripción del producto ABC",
+         "precio": 99.99
+      },
+       {
+         "cod-proveedor": "PROV002",
+         "codigo-SKU": "SKU124",
+         "categoria": "Electrónica",
+         "nombre-producto": "Producto DEF",
+         "descripcion": "Descripción del producto DEF",
+         "precio": 99.99
+      }
+   ]
 }
