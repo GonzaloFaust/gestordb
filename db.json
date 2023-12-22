@@ -1,4 +1,4 @@
-"producto" =
+{"producto" :
     [
         {
             "cod-proveedor": "PROV001",
@@ -16,4 +16,5 @@
             "descripcion": "Descripción del producto DEF",
             "precio": 9.99
         },
-    ];
+    ]
+}
