@@ -16,5 +16,15 @@
          "descripcion": "Descripción del producto DEF",
          "precio": 99.99
       }
+   ],
+   "proveedor": [
+      {
+         "lalala":"123"
+      }
+   ],
+   "ordenes": [
+      {
+         "lalala":"123"
+      }
    ]
 }
